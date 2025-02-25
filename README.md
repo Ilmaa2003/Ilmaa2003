@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilma Habbab</h1>
-<h3 align="center">Aspiring Software Engineer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center"> Software Engineering Undergraduate </h3>
 
 ---
 
