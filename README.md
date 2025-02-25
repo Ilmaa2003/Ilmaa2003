@@ -6,17 +6,17 @@
 ## 🚀 About Me  
 🔹 Passionate about **software development, problem-solving, and creating efficient solutions**  
 🔹 Currently pursuing a **Higher National Diploma in Software Engineering** at the **National Institute of Business Studies**  
-🔹 Exploring **Python, Django, React, and JavaScript** to build user-friendly applications  
-🔹 Interested in **backend development, cloud computing, and UI/UX design**  
+🔹 Exploring **Python, React, and JavaScript** to build user-friendly applications  
+🔹 Interested in **backend development, and UI/UX design**  
 🔹 Constantly learning and improving my skills through hands-on projects  
 
 ---
 
 ## 💡 Skills & Technologies  
 ✔ **Programming Languages**: Python, Java, C, JavaScript, PHP, HTML, CSS  
-✔ **Frameworks & Libraries**: Django, React, Flask  
+✔ **Frameworks & Libraries**: React  
 ✔ **Databases**: PostgreSQL, MySQL, Microsoft SQL Server  
-✔ **Tools & Platforms**: Git, VS Code, PyCharm, Figma, Adobe XD, Photoshop  
+✔ **Tools & Platforms**: VS Code, Figma, Adobe XD, Photoshop  
 
 ---
 
