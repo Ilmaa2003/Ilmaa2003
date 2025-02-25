@@ -58,7 +58,7 @@
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="www.linkedin.com/in/ilma-habbab-3973b82b5" target="_blank">
+  <a href="https://www.linkedin.com/in/ilma-habbab-3973b82b5/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
 </p>
 
